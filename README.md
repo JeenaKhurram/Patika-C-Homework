@@ -9,4 +9,6 @@ Mantıksal Operatörler (||, &&, !)
 İlişkisel Operatörler (==,!=, <, >, >=,<=)
 Aritmetik (+, -, *, /, %, ++, --)
 
+You can see my hackerrank challenges here : https://www.hackerrank.com/jeenistyles7
+
 ## YTÜ- Kodluyoruz & Patika.dev Yazılıma Başlangıç Programı
